@@ -1,0 +1,8 @@
+psd to html
+fonts
+font-family: 'Playfair Display', serif;
+font-family: 'Ubuntu', sans-serif;
+color: 
+black:000000
+ash:626262
+#262422
